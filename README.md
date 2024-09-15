@@ -1,6 +1,6 @@
 # Reverse proxy
 
-Reverese proxy http traffic to a host of choice.
+Reverse proxy http traffic to a host of choice.
 
 The route "/helth" should return 200 if everything is working and can be used for healthchecks.
 
